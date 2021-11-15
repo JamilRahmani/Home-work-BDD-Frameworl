@@ -1,0 +1,6 @@
+stepDefinitions\DesctopStepDefinition.class
+stepDefinitions\LaptopAndNoteBookStepDef.class
+stepDefinitions\Initializer.class
+stepDefinitions\RetailStepDef.class
+stepDefinitions\HomePageStepDef.class
+runner\TestRunner.class

@@ -1,0 +1,7 @@
+pageObjects\RetailPage_PageObject.class
+utilities\UtilityClass.class
+core\Base.class
+pageObjects\DesctopPageObject.class
+utilities\CucumberReportingConfig.class
+pageObjects\LaptopAndMoteBooksPageObject.class
+pageObjects\HomePage_PageObject.class

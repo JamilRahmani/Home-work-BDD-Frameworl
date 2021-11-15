@@ -1,0 +1,108 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 274255700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Retail website",
+            "match": {
+              "location": "stepDefinitions.DesctopStepDefinition.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 50764300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on Desktops tab",
+            "match": {
+              "location": "stepDefinitions.DesctopStepDefinition.user_click_on_desktops_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 500585900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on Show all desktops",
+            "match": {
+              "location": "stepDefinitions.DesctopStepDefinition.user_click_on_show_all_desktops()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-11-15T06:10:22.563Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2920895800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "User verify all items are present in Desktops tab",
+        "description": "",
+        "id": "desktops;user-verify-all-items-are-present-in-desktops-tab",
+        "after": [
+          {
+            "result": {
+              "duration": 207380200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 588639600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User should see all items are present in Desktop page",
+            "match": {
+              "location": "stepDefinitions.DesctopStepDefinition.user_should_see_all_items_are_present_in_desktop_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@desktop"
+          }
+        ]
+      }
+    ],
+    "name": "Desktops",
+    "description": "",
+    "id": "desktops",
+    "keyword": "Feature",
+    "uri": "classpath:features/desktop.feature",
+    "tags": []
+  }
+]
