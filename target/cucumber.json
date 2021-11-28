@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 274255700,
+              "duration": 1712602200,
               "status": "passed"
             },
             "line": 5,
@@ -23,36 +23,36 @@
           },
           {
             "result": {
-              "duration": 50764300,
+              "duration": 89895700,
               "status": "passed"
             },
             "line": 6,
-            "name": "User click on Desktops tab",
+            "name": "User click on Laptop \u0026NoteBook tab",
             "match": {
-              "location": "stepDefinitions.DesctopStepDefinition.user_click_on_desktops_tab()"
+              "location": "stepDefinitions.LaptopAndNoteBookStepDef.user_click_on_laptop_note_book_tab()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 500585900,
+              "duration": 1920845500,
               "status": "passed"
             },
             "line": 7,
-            "name": "User click on Show all desktops",
+            "name": "User click on Show all Laptop \u0026NoteBook option",
             "match": {
-              "location": "stepDefinitions.DesctopStepDefinition.user_click_on_show_all_desktops()"
+              "location": "stepDefinitions.LaptopAndNoteBookStepDef.user_click_on_show_all_laptop_note_book_option()"
             },
             "keyword": "And "
           }
         ]
       },
       {
-        "start_timestamp": "2021-11-15T06:10:22.563Z",
+        "start_timestamp": "2021-11-28T06:50:26.196Z",
         "before": [
           {
             "result": {
-              "duration": 2920895800,
+              "duration": 7121805200,
               "status": "passed"
             },
             "match": {
@@ -60,14 +60,14 @@
             }
           }
         ],
-        "line": 10,
-        "name": "User verify all items are present in Desktops tab",
+        "line": 41,
+        "name": "Adding an item to Wish list",
         "description": "",
-        "id": "desktops;user-verify-all-items-are-present-in-desktops-tab",
+        "id": "laptop-\u0026-notebooks;adding-an-item-to-wish-list",
         "after": [
           {
             "result": {
-              "duration": 207380200,
+              "duration": 320384200,
               "status": "passed"
             },
             "match": {
@@ -80,29 +80,41 @@
         "steps": [
           {
             "result": {
-              "duration": 588639600,
+              "duration": 59521700,
               "status": "passed"
             },
-            "line": 11,
-            "name": "User should see all items are present in Desktop page",
+            "line": 43,
+            "name": "User click on heart icon to add ‘Sony VaIO’ laptop to wish list",
             "match": {
-              "location": "stepDefinitions.DesctopStepDefinition.user_should_see_all_items_are_present_in_desktop_page()"
+              "location": "stepDefinitions.LaptopAndNoteBookStepDef.user_click_on_heart_icon_to_add_sony_va_io_laptop_to_wish_list()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 247839100,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "User should get a message ‘You must login or create an account to save Sony VAIO to your wish list!",
+            "match": {
+              "location": "stepDefinitions.LaptopAndNoteBookStepDef.user_should_get_a_message_you_must_login_or_create_an_account_to_save_sony_vaio_to_your_wish_list()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@desktop"
+            "name": "@AddingItem"
           }
         ]
       }
     ],
-    "name": "Desktops",
+    "name": "Laptop \u0026 NoteBooks",
     "description": "",
-    "id": "desktops",
+    "id": "laptop-\u0026-notebooks",
     "keyword": "Feature",
-    "uri": "classpath:features/desktop.feature",
+    "uri": "classpath:features/laptopAndNoteBook.feature",
     "tags": []
   }
 ]

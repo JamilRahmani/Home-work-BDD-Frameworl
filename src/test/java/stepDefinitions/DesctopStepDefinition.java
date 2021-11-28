@@ -1,3 +1,4 @@
+
 package stepDefinitions;
 
 import java.util.List;
@@ -38,13 +39,13 @@ public class DesctopStepDefinition extends Base {
 
 	}
 
-	// *****************************************************************************************
 
 	// Desktop: Verify all Items are available on the UI
 	@Then("User should see all items are present in Desktop page")
 	public void user_should_see_all_items_are_present_in_desktop_page() {
 		desktop.VerifyAllItemsAreAvailble();
 		logger.info("all items are present in desktop page");
+
 	}
 
 	// *********************************************************************************************
@@ -53,50 +54,65 @@ public class DesctopStepDefinition extends Base {
 
 	@When("User click  ADD TO CART option on ‘HP LP3065’ item")
 	public void user_click_add_to_cart_option_on_hp_lp3065_item() {
-		desktop.clickAddToCartHP();
+		desktop.clickOnAddHP_LPToShoppingCart();
 		logger.info("User clicked on add HP_LP to shoping cart");
-
+		
 	}
-
-//	@When("User select quantity {int}")
-//	public void user_select_quantity(Integer int1) {
-
-//	}
+	
+	
+	@When("User select quantity {int}")
+	public void user_select_quantity(Integer int1) throws InterruptedException {
+		desktop.enterQuantity();
+		logger.info("User selected quantity");
+		Thread.sleep(3000);
+	}
 
 	@When("User click add to Cart button")
-	public void user_click_add_to_cart_button() {
-		desktop.clickOnAddHP_LPToShoppingCart();
+	public void user_click_add_to_cart_button() throws InterruptedException {
+		desktop.clickAddToCartHP();
 		logger.info("User clicked on add to cart HP");
+		Thread.sleep(3000);
 
 	}
 
-	@Then("User should see a message ‘Success: you have added HP LP {int} to your Shopping cart!’")
-	public void user_should_see_a_message_success_you_have_added_hp_lp_to_your_shopping_cart(Integer int1) {
-		Assert.assertEquals(int1, desktop.getSuccessMessageForHP());
+	@Then("User should see a message ‘Success: you have added HP LP to your Shopping cart!’")
+	public void user_should_see_a_message_success_you_have_added_hp_lp_to_your_shopping_cart() {
+		String actual = "Success: you have added HP LP 3065 to your Shopping cart!";
+		String expected = desktop.getSuccessMessageForHP();
+		
+		Assert.assertEquals(expected.substring(0, 7), actual.substring(0, 7));
 		logger.info("Success message is displayed");
 		UtilityClass.takeScreenShot();
+		
+//		Assert.assertEquals(str1.substring(0, 7), desktop.getSuccessMessageForHP().substring(0, 7));
+//		logger.info("Success message is displayed");
+//		UtilityClass.takeScreenShot();
 	}
 
 	// *******************************************************************************************
-
+	
 	// User add Canon EOS 5D from Desktops tab to the cart
 
 	@When("User click  ADD TO CART option on ‘Canon EOS 5D’ item")
 	public void user_click_add_to_cart_option_on_canon_eos_5d_item() {
-
+		desktop.ClickAddToCartCanon5D();
 		logger.info("User clicked add to cart");
 
 	}
 
 	@When("User select color from dropdown ‘Red’")
 	public void user_select_color_from_dropdown_red() {
-
+		desktop.choossingRedColor();
 		logger.info("User clicked on select color");
 
 	}
 
 	@Then("User should see a message ‘Success: You have added Canon EOS 5D to your shopping cart!’")
-	public void user_should_see_a_message_success_you_have_added_canon_eos_5d_to_your_shopping_cart() {
+	public void user_should_see_a_message_success_you_have_added_canon_eos_5d_to_your_shopping_cart(String str) {
+
+		Assert.assertEquals(str, desktop.getSuccessMessageForCanon());
+		logger.info("successful message is displayed");
+		UtilityClass.takeScreenShot();
 
 	}
 
@@ -106,11 +122,15 @@ public class DesctopStepDefinition extends Base {
 
 	@When("User click on Canon EOS 5D item")
 	public void user_click_on_canon_eos_5d_item() {
+		desktop.clickOnCanon5D();
+		logger.info("User clicked on canon EOS 5D item");
 
 	}
 
 	@When("User click on write a review link")
 	public void user_click_on_write_a_review_link() {
+		desktop.clickOnWriteAReview();
+		logger.info("User clicked on write a review link");
 
 	}
 
@@ -120,17 +140,30 @@ public class DesctopStepDefinition extends Base {
 
 		List<Map<String, String>> value = dataTable.asMaps(String.class, String.class);
 		desktop.enterYourName(value.get(0).get("yourname"));
-		Thread.sleep(3000);
+		//Thread.sleep(2000);
+		desktop.enterYourReview(value.get(0).get("yourReview"));
+		Thread.sleep(2000);
+		desktop.ClickOnRating();
+		logger.info("User entered name, review, and rating");
+
 	}
 
 	@When("User click on Continue Button")
 	public void user_click_on_continue_button() {
+		desktop.clickOnContinueButton();
+		logger.info("User clicked on continue button");
 
 	}
 
 	@Then("User should see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval.”")
 	public void user_should_see_a_message_with_thank_you_for_your_review_it_has_been_submitted_to_the_webmaster_for_approval() {
-
+     String actual = "Thank you for your review.";
+     String expected = desktop.getSuccessMessageForReview();
+     
+     Assert.assertEquals(expected, actual);
+     logger.info("The success message is dispalyed");
+		
+		
 	}
 
 }

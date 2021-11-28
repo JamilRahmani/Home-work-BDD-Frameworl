@@ -23,7 +23,9 @@ public class DesctopPageObject extends Base {
 	private WebElement VerifyAllItemsAvailble;
 	@FindBy(xpath = "(//span[text()='Add to Cart'])[3]")
 	private WebElement addHP_LPToShoppingCart;
-	@FindBy(xpath = "//button[@id='button-cart']")
+	@FindBy(xpath = "//input[@id='input-quantity']")
+	private WebElement quantity;
+	@FindBy(xpath = "//button[text()='Add to Cart']")
 	private WebElement addToCartHP;
 	@FindBy(xpath = "//div[contains(text(),'Success: You have added ')]")
 	private WebElement successMessageForHP;
@@ -68,9 +70,17 @@ public class DesctopPageObject extends Base {
 		
 
 	}
-
+	
+	
 	public void clickOnAddHP_LPToShoppingCart() {
 		addHP_LPToShoppingCart.click();
+
+	}
+
+	public void enterQuantity() {
+		quantity.clear();
+		quantity.sendKeys("1");
+		
 
 	}
 
@@ -143,7 +153,9 @@ public class DesctopPageObject extends Base {
 	}
 
 	public String getSuccessMessageForReview() {
-		return successMessageForReview.getText();
+		String msg = successMessageForReview.getText();
+		return msg;
+		
 		
 		
 

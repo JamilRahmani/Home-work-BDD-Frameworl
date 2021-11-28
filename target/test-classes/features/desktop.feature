@@ -12,11 +12,12 @@ Then User should see all items are present in Desktop page
 
  
 @HP_Laptop
-Scenario: User add HP LP 3065  from Desktops tab to the cart
+Scenario: User add HP LP from Desktops tab to the cart
+
 And User click  ADD TO CART option on ‘HP LP3065’ item 
 And User select quantity 1 
 And User click add to Cart button 
-Then User should see a message ‘Success: you have added HP LP 3065 to your Shopping cart!’
+Then User should see a message ‘Success: you have added HP LP to your Shopping cart!’
 
  
 @Canon_EOS

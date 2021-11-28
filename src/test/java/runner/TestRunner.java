@@ -21,7 +21,7 @@ import utilities.CucumberReportingConfig;
 		// plugin will be used for generating a readable report
 		features = "classpath:features",
 		glue = "stepDefinitions",
-		tags = "@desktop", 
+		tags = "@AddingItem", 
 		dryRun = false, 
 		monochrome = true, 
 		strict = true, 

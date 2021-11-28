@@ -8,7 +8,7 @@ Given User is on Retail website
 
 When User click on Currency 
 
-And User Chose Euro from dropdown 
+And User Choose Euro from dropdown 
 
 Then currency value should change to Euro
 
