@@ -1,3 +1,4 @@
+@CompleteHomePage
 Feature: Home Page
 
 

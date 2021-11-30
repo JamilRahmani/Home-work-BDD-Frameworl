@@ -21,7 +21,7 @@ public class LaptopAndNoteBooksPageObject extends Base {
 	private WebElement macBook;
 	@FindBy(xpath = "//button[text()='Add to Cart']")
 	private WebElement addToCartButton;
-	// @FindBy(xpath = "//div[text()='Success: You have added ']")
+	@FindBy(xpath = "//div[text()='Success: You have added ']")
 	private WebElement message;
 	@FindBy(xpath = "//*[contains(text(),' 1 item(s) - $602.00')]")
 	private WebElement seeItemShowedToTheCart;
@@ -132,7 +132,24 @@ public class LaptopAndNoteBooksPageObject extends Base {
 	}
 
 	public String verifyessageForSonyVaio() {
-     return messageForSonyVaio.getText();
+		return messageForSonyVaio.getText();
+	}
+
+	// ****************************************************************************************************
+	// ****************************************************************************************************
+	// Scenario: Validate the price of MacBook Pro is 2000
+
+	@FindBy(xpath = "//a[text()='MacBook Pro']")
+	private WebElement macBookPro;
+	@FindBy(xpath = "//h2[text()='$2,000.00']")
+	private WebElement priceTagForMacBookPro;
+
+	public void clickOnMacBookPro() {
+		macBookPro.click();
+	}
+
+	public String confirmPriceTagForMacBookPro() {
+     return priceTagForMacBookPro.getText();
 	}
 
 }

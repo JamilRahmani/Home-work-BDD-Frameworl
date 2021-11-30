@@ -13,7 +13,7 @@ import utilities.CucumberReportingConfig;
 @CucumberOptions(
 		// features tells cucumber where all feature files are located
 		// glue tells cucumber where all stepDef classes are located
-		// tags we will run one scenario, or multiple scenarios, or entire feature
+		// tags we will run one scenario, or multiple scenarios, or entire features
 		// dryRun checks if there are any missing steps in StepDefiniton class
 		// for each scenario steps in feature file
 		// monochrome will make console readable
@@ -21,7 +21,7 @@ import utilities.CucumberReportingConfig;
 		// plugin will be used for generating a readable report
 		features = "classpath:features",
 		glue = "stepDefinitions",
-		tags = "@AddingItem", 
+		tags = "@CompleteDesktop", 
 		dryRun = false, 
 		monochrome = true, 
 		strict = true, 

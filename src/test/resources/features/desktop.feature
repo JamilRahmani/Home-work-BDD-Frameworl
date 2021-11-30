@@ -1,3 +1,4 @@
+@CompleteDesktop
 Feature:  Desktops 
 
 
@@ -36,7 +37,7 @@ And User click on write a review link
 And user fill the review information with below information
 |yourname|yourReview|Rating|
 |Freshta|Jamil said that it is the worsest thing which I have ever bought|bad|
-And User click on Continue button 
+And User click On Continue button 
 Then User should see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval.”
 
 

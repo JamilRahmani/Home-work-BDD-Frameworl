@@ -897,3 +897,728 @@
 2021-11-28 01:50:37,183 - logger_File -INFO - User clicked on heat icon to add ‘Sony VaIO’ laptop to wish list 
 2021-11-28 01:50:37,432 - logger_File -INFO - User get a message ‘You must login or create an account to save Sony VAIO to your wish list!
 2021-11-28 01:50:37,754 - logger_File -INFO - ScenarioAdding an item to Wish list PASSED
+2021-11-28 02:07:02,913 - logger_File -INFO - Scenario 51Started
+2021-11-28 02:07:09,249 - logger_File -INFO - User is on retail website
+2021-11-28 02:07:09,367 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:07:10,011 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:07:10,279 - logger_File -INFO - ScenarioValidate the price of MacBook Pro is 2000 UNDEFINED
+2021-11-28 02:23:10,239 - logger_File -INFO - Scenario 51Started
+2021-11-28 02:23:13,923 - logger_File -INFO - User is on retail website
+2021-11-28 02:23:14,030 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:23:14,542 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:23:16,028 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-11-28 02:23:16,359 - logger_File -INFO - ScenarioValidate the price of MacBook Pro is 2000 UNDEFINED
+2021-11-28 02:27:09,649 - logger_File -INFO - Scenario 51Started
+2021-11-28 02:27:16,346 - logger_File -INFO - User is on retail website
+2021-11-28 02:27:16,445 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:27:19,082 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:27:22,406 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-11-28 02:27:22,844 - logger_File -INFO - ScenarioValidate the price of MacBook Pro is 2000 UNDEFINED
+2021-11-28 02:28:27,379 - logger_File -INFO - Scenario 51Started
+2021-11-28 02:28:36,415 - logger_File -INFO - User is on retail website
+2021-11-28 02:28:36,512 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:28:38,529 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:28:40,673 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-11-28 02:28:41,035 - logger_File -INFO - ScenarioValidate the price of MacBook Pro is 2000 FAILED
+2021-11-28 02:30:19,824 - logger_File -INFO - Scenario 51Started
+2021-11-28 02:30:26,899 - logger_File -INFO - User is on retail website
+2021-11-28 02:30:26,991 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:30:27,801 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:30:29,165 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-11-28 02:30:30,089 - logger_File -INFO - User see  ‘$2,000.00’ price tag is present on UI
+2021-11-28 02:30:30,476 - logger_File -INFO - ScenarioValidate the price of MacBook Pro is 2000 PASSED
+2021-11-28 02:31:56,750 - logger_File -INFO - Scenario 13Started
+2021-11-28 02:32:07,237 - logger_File -INFO - User is on retail website
+2021-11-28 02:32:07,322 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:32:09,676 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:32:12,278 - logger_File -INFO - User clicked on Mackbook item
+2021-11-28 02:32:12,363 - logger_File -INFO - User clicked on add to cart HP
+2021-11-28 02:32:42,146 - logger_File -INFO - Scenario 27Started
+2021-11-28 02:32:46,252 - logger_File -INFO - User is on retail website
+2021-11-28 02:32:46,337 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:32:47,052 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:32:47,110 - logger_File -INFO - User clicked on product comparsion icon on MacBook
+2021-11-28 02:32:47,175 - logger_File -INFO - User clicked on product comparsion icon on MacBook Air
+2021-11-28 02:32:47,431 - logger_File -INFO - User saw success message
+2021-11-28 02:32:49,769 - logger_File -INFO - User clicked on Product comparison link
+2021-11-28 02:32:49,824 - logger_File -INFO - User see Product Comparsion Chart
+2021-11-28 02:32:50,692 - logger_File -INFO - ScenarioProduct Comparison PASSED
+2021-11-28 02:32:50,716 - logger_File -INFO - Scenario 42Started
+2021-11-28 02:32:54,473 - logger_File -INFO - User is on retail website
+2021-11-28 02:32:54,571 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:32:55,463 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:32:55,536 - logger_File -INFO - User clicked on heat icon to add ‘Sony VaIO’ laptop to wish list 
+2021-11-28 02:32:55,760 - logger_File -INFO - User get a message ‘You must login or create an account to save Sony VAIO to your wish list!
+2021-11-28 02:32:56,050 - logger_File -INFO - ScenarioAdding an item to Wish list PASSED
+2021-11-28 02:32:56,075 - logger_File -INFO - Scenario 52Started
+2021-11-28 02:32:59,350 - logger_File -INFO - User is on retail website
+2021-11-28 02:32:59,419 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:32:59,915 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:33:01,200 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-11-28 02:33:02,096 - logger_File -INFO - User see  ‘$2,000.00’ price tag is present on UI
+2021-11-28 02:33:02,503 - logger_File -INFO - ScenarioValidate the price of MacBook Pro is 2000 PASSED
+2021-11-28 02:36:01,741 - logger_File -INFO - Scenario 13Started
+2021-11-28 02:36:10,802 - logger_File -INFO - User is on retail website
+2021-11-28 02:36:10,892 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:36:12,924 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:36:14,473 - logger_File -INFO - User clicked on Mackbook item
+2021-11-28 02:36:14,617 - logger_File -INFO - User clicked on add to cart HP
+2021-11-28 02:40:57,068 - logger_File -INFO - Scenario 13Started
+2021-11-28 02:41:01,047 - logger_File -INFO - User is on retail website
+2021-11-28 02:41:01,142 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:41:01,661 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:41:04,118 - logger_File -INFO - User clicked on Mackbook item
+2021-11-28 02:41:04,329 - logger_File -INFO - User clicked on add to cart HP
+2021-11-28 02:42:07,821 - logger_File -INFO - Scenario FAILED
+2021-11-28 02:43:26,394 - logger_File -INFO - Scenario 42Started
+2021-11-28 02:43:30,510 - logger_File -INFO - User is on retail website
+2021-11-28 02:43:30,605 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:43:31,163 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:43:31,239 - logger_File -INFO - User clicked on heat icon to add ‘Sony VaIO’ laptop to wish list 
+2021-11-28 02:43:32,256 - logger_File -INFO - User get a message ‘You must login or create an account to save Sony VAIO to your wish list!
+2021-11-28 02:43:32,548 - logger_File -INFO - ScenarioAdding an item to Wish list PASSED
+2021-11-28 02:44:05,029 - logger_File -INFO - Scenario 52Started
+2021-11-28 02:44:09,386 - logger_File -INFO - User is on retail website
+2021-11-28 02:44:09,492 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:44:09,925 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:44:11,064 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-11-28 02:44:11,940 - logger_File -INFO - User see  ‘$2,000.00’ price tag is present on UI
+2021-11-28 02:44:12,337 - logger_File -INFO - ScenarioValidate the price of MacBook Pro is 2000 PASSED
+2021-11-28 02:44:37,296 - logger_File -INFO - Scenario 27Started
+2021-11-28 02:44:41,016 - logger_File -INFO - User is on retail website
+2021-11-28 02:44:41,134 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:44:41,538 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:44:41,632 - logger_File -INFO - User clicked on product comparsion icon on MacBook
+2021-11-28 02:44:41,704 - logger_File -INFO - User clicked on product comparsion icon on MacBook Air
+2021-11-28 02:44:41,818 - logger_File -INFO - User saw success message
+2021-11-28 02:44:43,607 - logger_File -INFO - User clicked on Product comparison link
+2021-11-28 02:44:43,688 - logger_File -INFO - User see Product Comparsion Chart
+2021-11-28 02:44:44,580 - logger_File -INFO - ScenarioProduct Comparison PASSED
+2021-11-28 02:45:09,540 - logger_File -INFO - Scenario 13Started
+2021-11-28 02:45:14,221 - logger_File -INFO - User is on retail website
+2021-11-28 02:45:14,342 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:45:15,304 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:45:16,949 - logger_File -INFO - User clicked on Mackbook item
+2021-11-28 02:45:17,090 - logger_File -INFO - User clicked on add to cart HP
+2021-11-28 02:46:20,491 - logger_File -INFO - Scenario FAILED
+2021-11-28 02:48:11,984 - logger_File -INFO - Scenario 13Started
+2021-11-28 02:48:15,833 - logger_File -INFO - User is on retail website
+2021-11-28 02:48:15,921 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-28 02:48:16,430 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-28 02:48:17,518 - logger_File -INFO - User clicked on Mackbook item
+2021-11-28 02:48:17,617 - logger_File -INFO - User clicked on add to cart HP
+2021-11-28 15:06:23,659 - logger_File -INFO - Scenario 15Started
+2021-11-28 15:06:29,253 - logger_File -INFO - User is on retail website
+2021-11-28 15:06:29,629 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method PASSED
+2021-11-28 15:07:05,943 - logger_File -INFO - Scenario 15Started
+2021-11-28 15:07:09,150 - logger_File -INFO - User is on retail website
+2021-11-28 15:07:09,342 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method PASSED
+2021-11-28 15:08:17,117 - logger_File -INFO - Scenario 15Started
+2021-11-28 15:08:23,553 - logger_File -INFO - User is on retail website
+2021-11-28 15:08:23,767 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method PASSED
+2021-11-29 01:48:05,492 - logger_File -INFO - Scenario 12Started
+2021-11-29 01:48:08,898 - logger_File -INFO - User is on retail website
+2021-11-29 01:48:08,957 - logger_File -INFO - User clicked on my account
+2021-11-29 01:48:09,188 - logger_File -INFO - User clicked on login
+2021-11-29 01:48:09,497 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-29 01:50:51,004 - logger_File -INFO - Scenario 12Started
+2021-11-29 01:50:53,902 - logger_File -INFO - User is on retail website
+2021-11-29 01:50:53,961 - logger_File -INFO - User clicked on my account
+2021-11-29 01:50:54,205 - logger_File -INFO - User clicked on login
+2021-11-29 01:50:54,330 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 01:50:55,272 - logger_File -INFO - User clicked on login button
+2021-11-29 01:50:55,303 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 01:50:55,969 - logger_File -INFO - User clicked on ‘Register for an Affiliate Account’ link
+2021-11-29 01:50:56,173 - logger_File -INFO - user entered personal information [{company=AWC, website=Amazon.com, taxID=6473824, paymentMethod=paypal}]
+2021-11-29 01:50:56,970 - logger_File -INFO - User checked on About us check box
+2021-11-29 01:50:57,291 - logger_File -INFO - User click on Continue button
+2021-11-29 01:50:57,322 - logger_File -INFO - User see a success message
+2021-11-29 01:50:57,617 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method PASSED
+2021-11-29 01:55:07,098 - logger_File -INFO - Scenario 12Started
+2021-11-29 01:55:09,938 - logger_File -INFO - User is on retail website
+2021-11-29 01:55:09,995 - logger_File -INFO - User clicked on my account
+2021-11-29 01:55:10,234 - logger_File -INFO - User clicked on login
+2021-11-29 01:55:10,362 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 01:55:11,294 - logger_File -INFO - User clicked on login button
+2021-11-29 01:55:11,326 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 01:55:12,003 - logger_File -INFO - User clicked on ‘Register for an Affiliate Account’ link
+2021-11-29 01:55:12,197 - logger_File -INFO - user entered personal information [{company=AWC, website=Amazon.com, taxID=6473824, paymentMethod=paypal}]
+2021-11-29 01:55:12,891 - logger_File -INFO - User checked on About us check box
+2021-11-29 01:55:13,200 - logger_File -INFO - User click on Continue button
+2021-11-29 01:55:13,227 - logger_File -INFO - User see a success message
+2021-11-29 01:55:13,477 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method PASSED
+2021-11-29 01:57:25,648 - logger_File -INFO - Scenario 21Started
+2021-11-29 01:57:28,428 - logger_File -INFO - User is on retail website
+2021-11-29 01:57:28,491 - logger_File -INFO - User clicked on my account
+2021-11-29 01:57:28,701 - logger_File -INFO - User clicked on login
+2021-11-29 01:57:28,841 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 01:57:29,774 - logger_File -INFO - User clicked on login button
+2021-11-29 01:57:29,805 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 01:57:30,511 - logger_File -INFO - ScenarioEdit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2021-11-29 02:44:31,586 - logger_File -INFO - Scenario 21Started
+2021-11-29 02:44:39,147 - logger_File -INFO - User is on retail website
+2021-11-29 02:44:39,210 - logger_File -INFO - User clicked on my account
+2021-11-29 02:44:41,280 - logger_File -INFO - User clicked on login
+2021-11-29 02:44:41,410 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 02:44:44,388 - logger_File -INFO - User clicked on login button
+2021-11-29 02:44:44,418 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 02:44:45,643 - logger_File -INFO - User clicked on ‘Edit your affiliate informationlink
+2021-11-29 02:44:45,690 - logger_File -INFO - user clicked on Bank Transfer radio button
+2021-11-29 02:44:45,976 - logger_File -INFO - User fill Bank information
+2021-11-29 02:44:47,308 - logger_File -INFO - User click on Continue button
+2021-11-29 02:44:47,338 - logger_File -INFO - User see a success message
+2021-11-29 02:44:47,580 - logger_File -INFO - ScenarioEdit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-11-29 02:45:27,078 - logger_File -INFO - Scenario 31Started
+2021-11-29 02:45:30,232 - logger_File -INFO - User is on retail website
+2021-11-29 02:45:30,290 - logger_File -INFO - User clicked on my account
+2021-11-29 02:45:30,553 - logger_File -INFO - User clicked on login
+2021-11-29 02:45:30,678 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 02:45:31,631 - logger_File -INFO - User clicked on login button
+2021-11-29 02:45:31,659 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 02:45:32,378 - logger_File -INFO - ScenarioEdit your account Information UNDEFINED
+2021-11-29 02:48:43,231 - logger_File -INFO - Scenario 31Started
+2021-11-29 02:48:46,791 - logger_File -INFO - User is on retail website
+2021-11-29 02:48:46,898 - logger_File -INFO - User clicked on my account
+2021-11-29 02:48:47,200 - logger_File -INFO - User clicked on login
+2021-11-29 02:48:47,449 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 02:48:52,368 - logger_File -INFO - User clicked on login button
+2021-11-29 02:48:52,421 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 02:48:53,282 - logger_File -INFO - ScenarioEdit your account Information UNDEFINED
+2021-11-29 03:28:05,788 - logger_File -INFO - Scenario 31Started
+2021-11-29 03:28:09,608 - logger_File -INFO - User is on retail website
+2021-11-29 03:28:09,713 - logger_File -INFO - User clicked on my account
+2021-11-29 03:28:10,092 - logger_File -INFO - User clicked on login
+2021-11-29 03:28:10,348 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 03:28:11,697 - logger_File -INFO - User clicked on login button
+2021-11-29 03:28:11,758 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 03:28:13,068 - logger_File -INFO - User click on ‘Edit your account information’ link
+2021-11-29 03:28:13,390 - logger_File -INFO - ScenarioEdit your account Information FAILED
+2021-11-29 03:30:06,336 - logger_File -INFO - Scenario 31Started
+2021-11-29 03:30:09,830 - logger_File -INFO - User is on retail website
+2021-11-29 03:30:09,928 - logger_File -INFO - User clicked on my account
+2021-11-29 03:30:10,286 - logger_File -INFO - User clicked on login
+2021-11-29 03:30:10,560 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 03:30:12,127 - logger_File -INFO - User clicked on login button
+2021-11-29 03:30:12,173 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 03:30:13,499 - logger_File -INFO - User click on ‘Edit your account information’ link
+2021-11-29 03:30:13,840 - logger_File -INFO - User modified below information
+2021-11-29 03:30:14,951 - logger_File -INFO - User clicked on continue button option
+2021-11-29 03:30:15,000 - logger_File -INFO - User see a message Success: Your account has been successfully updated.
+2021-11-29 03:30:15,922 - logger_File -INFO - ScenarioEdit your account Information PASSED
+2021-11-29 03:30:57,039 - logger_File -INFO - Scenario 13Started
+2021-11-29 03:31:00,401 - logger_File -INFO - User is on retail website
+2021-11-29 03:31:00,494 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-29 03:31:00,913 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-29 03:31:02,053 - logger_File -INFO - User clicked on Mackbook item
+2021-11-29 03:31:02,149 - logger_File -INFO - User clicked on add to cart HP
+2021-11-29 03:31:47,479 - logger_File -INFO - Scenario 27Started
+2021-11-29 03:31:56,942 - logger_File -INFO - Scenario 42Started
+2021-11-29 03:31:59,587 - logger_File -INFO - User is on retail website
+2021-11-29 03:31:59,672 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-29 03:32:00,615 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-29 03:32:05,115 - logger_File -INFO - Scenario 52Started
+2021-11-29 03:32:08,337 - logger_File -INFO - Scenario 32Started
+2021-11-29 03:33:11,355 - logger_File -INFO - Scenario 13Started
+2021-11-29 03:33:14,760 - logger_File -INFO - User is on retail website
+2021-11-29 03:33:14,857 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-29 03:33:15,385 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-29 03:33:16,407 - logger_File -INFO - User clicked on Mackbook item
+2021-11-29 03:33:16,498 - logger_File -INFO - User clicked on add to cart HP
+2021-11-29 03:34:19,992 - logger_File -INFO - Scenario FAILED
+2021-11-29 03:34:20,022 - logger_File -INFO - Scenario 27Started
+2021-11-29 03:34:23,651 - logger_File -INFO - User is on retail website
+2021-11-29 03:34:23,726 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-29 03:34:24,711 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-29 03:34:24,775 - logger_File -INFO - User clicked on product comparsion icon on MacBook
+2021-11-29 03:34:24,841 - logger_File -INFO - User clicked on product comparsion icon on MacBook Air
+2021-11-29 03:34:25,024 - logger_File -INFO - User saw success message
+2021-11-29 03:34:26,595 - logger_File -INFO - User clicked on Product comparison link
+2021-11-29 03:34:26,654 - logger_File -INFO - User see Product Comparsion Chart
+2021-11-29 03:34:27,524 - logger_File -INFO - ScenarioProduct Comparison PASSED
+2021-11-29 03:34:27,542 - logger_File -INFO - Scenario 42Started
+2021-11-29 03:34:30,110 - logger_File -INFO - User is on retail website
+2021-11-29 03:34:30,199 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-29 03:34:30,737 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-29 03:34:30,809 - logger_File -INFO - User clicked on heat icon to add ‘Sony VaIO’ laptop to wish list 
+2021-11-29 03:34:30,978 - logger_File -INFO - User get a message ‘You must login or create an account to save Sony VAIO to your wish list!
+2021-11-29 03:34:31,339 - logger_File -INFO - ScenarioAdding an item to Wish list PASSED
+2021-11-29 03:34:31,358 - logger_File -INFO - Scenario 52Started
+2021-11-29 03:34:34,670 - logger_File -INFO - User is on retail website
+2021-11-29 03:34:34,783 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-29 03:34:35,872 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-29 03:34:37,211 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-11-29 03:34:37,954 - logger_File -INFO - User see  ‘$2,000.00’ price tag is present on UI
+2021-11-29 03:34:38,366 - logger_File -INFO - ScenarioValidate the price of MacBook Pro is 2000 PASSED
+2021-11-29 03:34:38,395 - logger_File -INFO - Scenario 13Started
+2021-11-29 03:34:42,321 - logger_File -INFO - User is on retail website
+2021-11-29 03:34:42,422 - logger_File -INFO - User clicked on my account
+2021-11-29 03:34:42,944 - logger_File -INFO - User clicked on login
+2021-11-29 03:34:43,180 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 03:34:44,454 - logger_File -INFO - User clicked on login button
+2021-11-29 03:35:14,770 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 03:35:14,797 - logger_File -INFO - Scenario 25Started
+2021-11-29 03:35:23,807 - logger_File -INFO - User is on retail website
+2021-11-29 03:35:23,870 - logger_File -INFO - User clicked on my account
+2021-11-29 03:35:26,296 - logger_File -INFO - User clicked on login
+2021-11-29 03:35:26,480 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 03:35:28,796 - logger_File -INFO - User clicked on login button
+2021-11-29 03:35:59,099 - logger_File -INFO - ScenarioEdit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-11-29 03:35:59,118 - logger_File -INFO - Scenario 36Started
+2021-11-29 03:36:04,371 - logger_File -INFO - User is on retail website
+2021-11-29 03:36:04,435 - logger_File -INFO - User clicked on my account
+2021-11-29 03:36:06,271 - logger_File -INFO - User clicked on login
+2021-11-29 03:36:06,439 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 03:36:08,866 - logger_File -INFO - User clicked on login button
+2021-11-29 03:36:39,218 - logger_File -INFO - ScenarioEdit your account Information FAILED
+2021-11-29 03:38:57,725 - logger_File -INFO - Scenario 13Started
+2021-11-29 03:39:01,606 - logger_File -INFO - User is on retail website
+2021-11-29 03:39:01,701 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-29 03:39:02,152 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-29 03:39:03,411 - logger_File -INFO - User clicked on Mackbook item
+2021-11-29 03:39:03,505 - logger_File -INFO - User clicked on add to cart HP
+2021-11-29 03:40:06,982 - logger_File -INFO - Scenario FAILED
+2021-11-29 03:40:07,024 - logger_File -INFO - Scenario 27Started
+2021-11-29 03:40:10,033 - logger_File -INFO - User is on retail website
+2021-11-29 03:40:10,101 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-29 03:40:10,571 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-29 03:40:10,642 - logger_File -INFO - User clicked on product comparsion icon on MacBook
+2021-11-29 03:40:10,712 - logger_File -INFO - User clicked on product comparsion icon on MacBook Air
+2021-11-29 03:40:11,119 - logger_File -INFO - ScenarioProduct Comparison FAILED
+2021-11-29 03:40:11,149 - logger_File -INFO - Scenario 42Started
+2021-11-29 03:40:13,786 - logger_File -INFO - User is on retail website
+2021-11-29 03:40:13,884 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-29 03:40:14,323 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-29 03:40:14,386 - logger_File -INFO - User clicked on heat icon to add ‘Sony VaIO’ laptop to wish list 
+2021-11-29 03:40:14,564 - logger_File -INFO - User get a message ‘You must login or create an account to save Sony VAIO to your wish list!
+2021-11-29 03:40:14,955 - logger_File -INFO - ScenarioAdding an item to Wish list PASSED
+2021-11-29 03:40:14,978 - logger_File -INFO - Scenario 52Started
+2021-11-29 03:40:17,853 - logger_File -INFO - User is on retail website
+2021-11-29 03:40:17,942 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-29 03:40:18,820 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-29 03:40:20,875 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-11-29 03:40:21,718 - logger_File -INFO - User see  ‘$2,000.00’ price tag is present on UI
+2021-11-29 03:40:22,146 - logger_File -INFO - ScenarioValidate the price of MacBook Pro is 2000 PASSED
+2021-11-29 03:40:22,189 - logger_File -INFO - Scenario 13Started
+2021-11-29 03:40:25,064 - logger_File -INFO - User is on retail website
+2021-11-29 03:40:25,145 - logger_File -INFO - User clicked on my account
+2021-11-29 03:40:25,440 - logger_File -INFO - User clicked on login
+2021-11-29 03:40:25,668 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 03:40:26,629 - logger_File -INFO - User clicked on login button
+2021-11-29 03:40:56,915 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 03:40:56,940 - logger_File -INFO - Scenario 25Started
+2021-11-29 03:40:59,653 - logger_File -INFO - User is on retail website
+2021-11-29 03:40:59,750 - logger_File -INFO - User clicked on my account
+2021-11-29 03:41:00,262 - logger_File -INFO - User clicked on login
+2021-11-29 03:41:00,512 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 03:41:01,596 - logger_File -INFO - User clicked on login button
+2021-11-29 03:41:31,949 - logger_File -INFO - ScenarioEdit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-11-29 03:41:31,976 - logger_File -INFO - Scenario 36Started
+2021-11-29 03:41:37,172 - logger_File -INFO - User is on retail website
+2021-11-29 03:41:37,238 - logger_File -INFO - User clicked on my account
+2021-11-29 03:41:38,474 - logger_File -INFO - User clicked on login
+2021-11-29 03:41:38,638 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 03:41:40,404 - logger_File -INFO - User clicked on login button
+2021-11-29 03:45:16,364 - logger_File -INFO - Scenario 13Started
+2021-11-29 03:45:27,101 - logger_File -INFO - User is on retail website
+2021-11-29 03:45:27,215 - logger_File -INFO - User clicked on my account
+2021-11-29 03:45:29,110 - logger_File -INFO - User clicked on login
+2021-11-29 03:45:29,377 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 03:45:31,504 - logger_File -INFO - User clicked on login button
+2021-11-29 03:46:01,946 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 03:46:02,019 - logger_File -INFO - Scenario 25Started
+2021-11-29 03:46:06,717 - logger_File -INFO - User is on retail website
+2021-11-29 03:46:06,794 - logger_File -INFO - User clicked on my account
+2021-11-29 03:46:08,229 - logger_File -INFO - User clicked on login
+2021-11-29 03:46:08,419 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 03:46:10,833 - logger_File -INFO - User clicked on login button
+2021-11-29 03:46:36,860 - logger_File -INFO - Scenario 36Started
+2021-11-29 20:06:39,268 - logger_File -INFO - Scenario 13Started
+2021-11-29 20:06:59,478 - logger_File -INFO - User is on retail website
+2021-11-29 20:06:59,555 - logger_File -INFO - User clicked on my account
+2021-11-29 20:06:59,812 - logger_File -INFO - User clicked on login
+2021-11-29 20:06:59,947 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 20:07:00,788 - logger_File -INFO - User clicked on login button
+2021-11-29 20:08:03,580 - logger_File -INFO - Scenario 13Started
+2021-11-29 20:08:06,835 - logger_File -INFO - User is on retail website
+2021-11-29 20:08:06,898 - logger_File -INFO - User clicked on my account
+2021-11-29 20:08:07,116 - logger_File -INFO - User clicked on login
+2021-11-29 20:08:07,236 - logger_File -INFO - user Enter hgkdrgf@gmail.comand password eagles
+2021-11-29 20:08:07,962 - logger_File -INFO - User clicked on login button
+2021-11-29 22:35:57,658 - logger_File -INFO - Scenario 13Started
+2021-11-29 22:36:07,198 - logger_File -INFO - User is on retail website
+2021-11-29 22:36:07,284 - logger_File -INFO - User clicked on my account
+2021-11-29 22:36:09,864 - logger_File -INFO - User clicked on login
+2021-11-29 22:36:10,032 - logger_File -INFO - user Enter eagles@tekschool.usand password eagles
+2021-11-29 22:36:12,820 - logger_File -INFO - User clicked on login button
+2021-11-29 22:36:43,155 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 22:53:35,983 - logger_File -INFO - Scenario 13Started
+2021-11-29 22:53:39,121 - logger_File -INFO - User is on retail website
+2021-11-29 22:53:39,226 - logger_File -INFO - User clicked on my account
+2021-11-29 22:53:39,462 - logger_File -INFO - User clicked on login
+2021-11-29 22:53:39,639 - logger_File -INFO - user Enter ahmed123456@tekschool.usand password ahmed123
+2021-11-29 22:53:40,496 - logger_File -INFO - User clicked on login button
+2021-11-29 22:53:40,538 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 22:54:11,523 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 22:54:11,573 - logger_File -INFO - Scenario 23Started
+2021-11-29 22:54:14,250 - logger_File -INFO - User is on retail website
+2021-11-29 22:54:14,373 - logger_File -INFO - User clicked on my account
+2021-11-29 22:54:14,671 - logger_File -INFO - User clicked on login
+2021-11-29 22:54:14,878 - logger_File -INFO - user Enter ahmed123456@tekschool.usand password ahmed123
+2021-11-29 22:54:15,761 - logger_File -INFO - User clicked on login button
+2021-11-29 22:54:15,798 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 22:54:46,620 - logger_File -INFO - ScenarioEdit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-11-29 22:54:46,651 - logger_File -INFO - Scenario 33Started
+2021-11-29 22:54:50,348 - logger_File -INFO - User is on retail website
+2021-11-29 22:54:50,443 - logger_File -INFO - User clicked on my account
+2021-11-29 22:54:51,201 - logger_File -INFO - User clicked on login
+2021-11-29 22:54:51,368 - logger_File -INFO - user Enter ahmed123456@tekschool.usand password ahmed123
+2021-11-29 22:54:52,248 - logger_File -INFO - User clicked on login button
+2021-11-29 22:54:52,283 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 22:54:53,455 - logger_File -INFO - User click on ‘Edit your account information’ link
+2021-11-29 22:54:53,717 - logger_File -INFO - User modified below information
+2021-11-29 22:54:54,617 - logger_File -INFO - User clicked on continue button option
+2021-11-29 22:54:54,660 - logger_File -INFO - User see a message Success: Your account has been successfully updated.
+2021-11-29 22:54:55,694 - logger_File -INFO - ScenarioEdit your account Information PASSED
+2021-11-29 23:14:35,829 - logger_File -INFO - Scenario 13Started
+2021-11-29 23:14:45,710 - logger_File -INFO - User is on retail website
+2021-11-29 23:14:45,784 - logger_File -INFO - User clicked on my account
+2021-11-29 23:14:50,563 - logger_File -INFO - User clicked on login
+2021-11-29 23:14:50,732 - logger_File -INFO - user Enter ahmed1@tekschool.usand password ahmed123
+2021-11-29 23:14:55,823 - logger_File -INFO - User clicked on login button
+2021-11-29 23:14:55,863 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 23:14:58,848 - logger_File -INFO - User clicked on ‘Register for an Affiliate Account’ link
+2021-11-29 23:14:59,097 - logger_File -INFO - user entered personal information [{company=AWC, website=Amazon.com, taxID=64724, paymentMethod=paypal}]
+2021-11-29 23:15:03,431 - logger_File -INFO - User checked on About us check box
+2021-11-29 23:15:06,186 - logger_File -INFO - User click on Continue button
+2021-11-29 23:15:18,888 - logger_File -INFO - Scenario 23Started
+2021-11-29 23:15:23,881 - logger_File -INFO - Scenario 33Started
+2021-11-29 23:21:17,074 - logger_File -INFO - Scenario 13Started
+2021-11-29 23:21:20,441 - logger_File -INFO - User is on retail website
+2021-11-29 23:21:20,516 - logger_File -INFO - User clicked on my account
+2021-11-29 23:21:20,801 - logger_File -INFO - User clicked on login
+2021-11-29 23:21:20,994 - logger_File -INFO - user Enter ahmed1@tekschool.usand password ahmed123
+2021-11-29 23:21:21,973 - logger_File -INFO - User clicked on login button
+2021-11-29 23:21:22,010 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 23:21:22,894 - logger_File -INFO - User clicked on ‘Register for an Affiliate Account’ link
+2021-11-29 23:21:23,136 - logger_File -INFO - user entered personal information [{company=AWC, website=Amazon.com, taxID=64724, paymentMethod=paypal}]
+2021-11-29 23:21:23,730 - logger_File -INFO - User checked on About us check box
+2021-11-29 23:21:23,980 - logger_File -INFO - User click on Continue button
+2021-11-29 23:21:54,220 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 23:21:54,278 - logger_File -INFO - Scenario 23Started
+2021-11-29 23:21:57,438 - logger_File -INFO - User is on retail website
+2021-11-29 23:21:57,528 - logger_File -INFO - User clicked on my account
+2021-11-29 23:21:57,827 - logger_File -INFO - User clicked on login
+2021-11-29 23:21:58,006 - logger_File -INFO - user Enter ahmed1@tekschool.usand password ahmed123
+2021-11-29 23:21:58,965 - logger_File -INFO - User clicked on login button
+2021-11-29 23:21:59,011 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 23:35:09,011 - logger_File -INFO - Scenario 13Started
+2021-11-29 23:35:15,841 - logger_File -INFO - User is on retail website
+2021-11-29 23:35:15,907 - logger_File -INFO - User clicked on my account
+2021-11-29 23:35:16,961 - logger_File -INFO - User clicked on login
+2021-11-29 23:35:17,126 - logger_File -INFO - user Enter ahmed1@tekschool.usand password ahmed123
+2021-11-29 23:35:18,836 - logger_File -INFO - User clicked on login button
+2021-11-29 23:35:18,882 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 23:35:20,307 - logger_File -INFO - User clicked on ‘Register for an Affiliate Account’ link
+2021-11-29 23:35:20,622 - logger_File -INFO - user entered personal information [{company=AWC, website=Amazon.com, taxID=64724, paymentMethod=paypal}]
+2021-11-29 23:35:21,257 - logger_File -INFO - User checked on About us check box
+2021-11-29 23:35:22,475 - logger_File -INFO - User click on Continue button
+2021-11-29 23:35:22,509 - logger_File -INFO - User see a success message
+2021-11-29 23:35:22,861 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method PASSED
+2021-11-29 23:35:22,928 - logger_File -INFO - Scenario 23Started
+2021-11-29 23:35:26,275 - logger_File -INFO - User is on retail website
+2021-11-29 23:35:26,354 - logger_File -INFO - User clicked on my account
+2021-11-29 23:35:26,771 - logger_File -INFO - User clicked on login
+2021-11-29 23:35:26,943 - logger_File -INFO - user Enter ahmed1@tekschool.usand password ahmed123
+2021-11-29 23:35:28,088 - logger_File -INFO - User clicked on login button
+2021-11-29 23:35:28,118 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 23:35:29,100 - logger_File -INFO - User clicked on ‘Edit your affiliate informationlink
+2021-11-29 23:35:29,151 - logger_File -INFO - user clicked on Bank Transfer radio button
+2021-11-29 23:35:59,533 - logger_File -INFO - ScenarioEdit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-11-29 23:35:59,566 - logger_File -INFO - Scenario 33Started
+2021-11-29 23:36:04,287 - logger_File -INFO - User is on retail website
+2021-11-29 23:36:04,356 - logger_File -INFO - User clicked on my account
+2021-11-29 23:36:04,752 - logger_File -INFO - User clicked on login
+2021-11-29 23:36:04,906 - logger_File -INFO - user Enter ahmed1@tekschool.usand password ahmed123
+2021-11-29 23:36:06,093 - logger_File -INFO - User clicked on login button
+2021-11-29 23:36:06,139 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 23:47:47,340 - logger_File -INFO - Scenario 13Started
+2021-11-29 23:47:51,870 - logger_File -INFO - User is on retail website
+2021-11-29 23:47:51,947 - logger_File -INFO - User clicked on my account
+2021-11-29 23:47:52,221 - logger_File -INFO - User clicked on login
+2021-11-29 23:47:52,400 - logger_File -INFO - user Enter ahmed1@tekschool.usand password ahmed123
+2021-11-29 23:47:53,428 - logger_File -INFO - User clicked on login button
+2021-11-29 23:47:53,465 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 23:48:24,335 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 23:48:24,391 - logger_File -INFO - Scenario 23Started
+2021-11-29 23:48:29,902 - logger_File -INFO - User is on retail website
+2021-11-29 23:51:43,959 - logger_File -INFO - Scenario 23Started
+2021-11-29 23:51:48,098 - logger_File -INFO - User is on retail website
+2021-11-29 23:51:48,155 - logger_File -INFO - User clicked on my account
+2021-11-29 23:51:48,427 - logger_File -INFO - User clicked on login
+2021-11-29 23:51:48,611 - logger_File -INFO - user Enter ahmed1@tekschool.usand password ahmed123
+2021-11-29 23:51:49,612 - logger_File -INFO - User clicked on login button
+2021-11-29 23:51:49,645 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 23:51:50,481 - logger_File -INFO - User clicked on ‘Edit your affiliate informationlink
+2021-11-29 23:51:50,546 - logger_File -INFO - user clicked on Bank Transfer radio button
+2021-11-29 23:51:52,885 - logger_File -INFO - User fill Bank information
+2021-11-29 23:51:53,864 - logger_File -INFO - User click on Continue button
+2021-11-29 23:51:53,899 - logger_File -INFO - User see a success message
+2021-11-29 23:51:54,232 - logger_File -INFO - ScenarioEdit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-11-29 23:52:41,189 - logger_File -INFO - Scenario 13Started
+2021-11-29 23:52:44,872 - logger_File -INFO - User is on retail website
+2021-11-29 23:52:44,946 - logger_File -INFO - User clicked on my account
+2021-11-29 23:52:45,487 - logger_File -INFO - User clicked on login
+2021-11-29 23:52:45,638 - logger_File -INFO - user Enter ahmed12@tekschool.usand password ahmed123
+2021-11-29 23:52:47,198 - logger_File -INFO - User clicked on login button
+2021-11-29 23:52:47,230 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 23:52:48,238 - logger_File -INFO - User clicked on ‘Register for an Affiliate Account’ link
+2021-11-29 23:52:48,526 - logger_File -INFO - user entered personal information [{company=AWC, website=Amazon.com, taxID=64724, paymentMethod=paypal}]
+2021-11-29 23:52:49,248 - logger_File -INFO - User checked on About us check box
+2021-11-29 23:52:49,941 - logger_File -INFO - User click on Continue button
+2021-11-29 23:52:49,979 - logger_File -INFO - User see a success message
+2021-11-29 23:52:50,317 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment Method PASSED
+2021-11-29 23:52:50,347 - logger_File -INFO - Scenario 23Started
+2021-11-29 23:52:53,107 - logger_File -INFO - User is on retail website
+2021-11-29 23:52:53,194 - logger_File -INFO - User clicked on my account
+2021-11-29 23:52:53,450 - logger_File -INFO - User clicked on login
+2021-11-29 23:52:53,649 - logger_File -INFO - user Enter ahmed12@tekschool.usand password ahmed123
+2021-11-29 23:52:54,599 - logger_File -INFO - User clicked on login button
+2021-11-29 23:52:54,633 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 23:52:55,472 - logger_File -INFO - User clicked on ‘Edit your affiliate informationlink
+2021-11-29 23:52:55,539 - logger_File -INFO - user clicked on Bank Transfer radio button
+2021-11-29 23:52:57,872 - logger_File -INFO - User fill Bank information
+2021-11-29 23:52:58,790 - logger_File -INFO - User click on Continue button
+2021-11-29 23:52:58,828 - logger_File -INFO - User see a success message
+2021-11-29 23:52:59,192 - logger_File -INFO - ScenarioEdit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-11-29 23:52:59,208 - logger_File -INFO - Scenario 33Started
+2021-11-29 23:53:03,068 - logger_File -INFO - User is on retail website
+2021-11-29 23:53:03,133 - logger_File -INFO - User clicked on my account
+2021-11-29 23:53:03,557 - logger_File -INFO - User clicked on login
+2021-11-29 23:53:03,700 - logger_File -INFO - user Enter ahmed12@tekschool.usand password ahmed123
+2021-11-29 23:53:04,780 - logger_File -INFO - User clicked on login button
+2021-11-29 23:53:04,808 - logger_File -INFO - User is loged in to myAccount dashboard
+2021-11-29 23:53:06,010 - logger_File -INFO - User click on ‘Edit your account information’ link
+2021-11-29 23:53:06,242 - logger_File -INFO - User modified below information
+2021-11-29 23:53:07,211 - logger_File -INFO - User clicked on continue button option
+2021-11-29 23:53:07,258 - logger_File -INFO - User see a message Success: Your account has been successfully updated.
+2021-11-29 23:53:08,215 - logger_File -INFO - ScenarioEdit your account Information PASSED
+2021-11-29 23:56:08,109 - logger_File -INFO - Scenario 13Started
+2021-11-29 23:56:11,419 - logger_File -INFO - User is on retail website
+2021-11-29 23:56:11,494 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-29 23:56:11,988 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-29 23:56:13,265 - logger_File -INFO - User clicked on Mackbook item
+2021-11-29 23:56:13,316 - logger_File -INFO - User clicked on add to cart HP
+2021-11-29 23:57:16,784 - logger_File -INFO - Scenario FAILED
+2021-11-29 23:57:16,831 - logger_File -INFO - Scenario 27Started
+2021-11-29 23:57:20,578 - logger_File -INFO - User is on retail website
+2021-11-29 23:57:20,638 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-29 23:57:21,254 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-29 23:57:21,306 - logger_File -INFO - User clicked on product comparsion icon on MacBook
+2021-11-29 23:57:21,358 - logger_File -INFO - User clicked on product comparsion icon on MacBook Air
+2021-11-29 23:57:21,516 - logger_File -INFO - User saw success message
+2021-11-29 23:59:41,956 - logger_File -INFO - Scenario 13Started
+2021-11-29 23:59:47,717 - logger_File -INFO - User is on retail website
+2021-11-29 23:59:47,782 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-29 23:59:48,244 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-29 23:59:49,414 - logger_File -INFO - User clicked on Mackbook item
+2021-11-29 23:59:49,463 - logger_File -INFO - User clicked on add to cart HP
+2021-11-29 23:59:52,502 - logger_File -INFO - User saw success meassge
+2021-11-29 23:59:53,151 - logger_File -INFO - User saw item showed to the cart
+2021-11-29 23:59:53,797 - logger_File -INFO - User saw item showed to the cart
+2021-11-29 23:59:53,844 - logger_File -INFO - User clicked on the cart option
+2021-11-29 23:59:53,889 - logger_File -INFO - User clicked on red X button to remove the item from cart
+2021-11-29 23:59:56,527 - logger_File -INFO - Item removed and cart is empty
+2021-11-29 23:59:56,821 - logger_File -INFO - Scenario PASSED
+2021-11-29 23:59:56,877 - logger_File -INFO - Scenario 27Started
+2021-11-30 00:00:00,367 - logger_File -INFO - User is on retail website
+2021-11-30 00:00:00,449 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-30 00:00:01,486 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-30 00:00:01,533 - logger_File -INFO - User clicked on product comparsion icon on MacBook
+2021-11-30 00:00:01,582 - logger_File -INFO - User clicked on product comparsion icon on MacBook Air
+2021-11-30 00:00:02,605 - logger_File -INFO - User saw success message
+2021-11-30 00:00:04,326 - logger_File -INFO - User clicked on Product comparison link
+2021-11-30 00:00:04,373 - logger_File -INFO - User see Product Comparsion Chart
+2021-11-30 00:00:05,360 - logger_File -INFO - ScenarioProduct Comparison PASSED
+2021-11-30 00:00:05,374 - logger_File -INFO - Scenario 42Started
+2021-11-30 00:00:07,989 - logger_File -INFO - User is on retail website
+2021-11-30 00:00:08,067 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-30 00:00:08,526 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-30 00:00:08,612 - logger_File -INFO - User clicked on heat icon to add ‘Sony VaIO’ laptop to wish list 
+2021-11-30 00:00:08,778 - logger_File -INFO - User get a message ‘You must login or create an account to save Sony VAIO to your wish list!
+2021-11-30 00:00:09,125 - logger_File -INFO - ScenarioAdding an item to Wish list PASSED
+2021-11-30 00:00:09,143 - logger_File -INFO - Scenario 52Started
+2021-11-30 00:00:12,977 - logger_File -INFO - User is on retail website
+2021-11-30 00:00:13,049 - logger_File -INFO - User clicked on Laptop&NoteBook
+2021-11-30 00:00:13,684 - logger_File -INFO - User clicked on Show all Laptop &NoteBook option
+2021-11-30 00:00:14,766 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-11-30 00:00:15,438 - logger_File -INFO - User see  ‘$2,000.00’ price tag is present on UI
+2021-11-30 00:00:15,774 - logger_File -INFO - ScenarioValidate the price of MacBook Pro is 2000 PASSED
+2021-11-30 00:02:33,643 - logger_File -INFO - Scenario 6Started
+2021-11-30 00:02:42,118 - logger_File -INFO - User is on retail website
+2021-11-30 00:02:42,180 - logger_File -INFO - User clicked on currency
+2021-11-30 00:02:43,557 - logger_File -INFO - User chose Euro from dropdown
+2021-11-30 00:02:44,643 - logger_File -INFO - Currency value changed
+2021-11-30 00:02:44,996 - logger_File -INFO - ScenarioUser verify currency values change PASSED
+2021-11-30 00:02:45,053 - logger_File -INFO - Scenario 18Started
+2021-11-30 00:02:51,749 - logger_File -INFO - User is on retail website
+2021-11-30 00:02:53,520 - logger_File -INFO - User clicked on shoping cart
+2021-11-30 00:02:53,558 - logger_File -INFO - Message is displayed
+2021-11-30 00:02:54,349 - logger_File -INFO - ScenarioUser empty Shopping cart message displays PASSED
+2021-11-30 00:04:04,112 - logger_File -INFO - Scenario 11Started
+2021-11-30 00:04:09,066 - logger_File -INFO - User is on retail website
+2021-11-30 00:04:09,135 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:04:10,066 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:04:10,705 - logger_File -INFO - all items are present in desktop page
+2021-11-30 00:04:11,058 - logger_File -INFO - ScenarioUser verify all items are present in Desktops tab PASSED
+2021-11-30 00:04:11,097 - logger_File -INFO - Scenario 16Started
+2021-11-30 00:04:14,289 - logger_File -INFO - User is on retail website
+2021-11-30 00:04:14,400 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:04:15,217 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:04:15,266 - logger_File -INFO - User clicked on add HP_LP to shoping cart
+2021-11-30 00:04:18,020 - logger_File -INFO - User selected quantity
+2021-11-30 00:04:21,079 - logger_File -INFO - User clicked on add to cart HP
+2021-11-30 00:04:24,117 - logger_File -INFO - Success message is displayed
+2021-11-30 00:04:25,044 - logger_File -INFO - ScenarioUser add HP LP from Desktops tab to the cart PASSED
+2021-11-30 00:04:25,060 - logger_File -INFO - Scenario 25Started
+2021-11-30 00:04:29,216 - logger_File -INFO - User is on retail website
+2021-11-30 00:04:29,269 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:04:30,290 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:04:30,337 - logger_File -INFO - User clicked add to cart
+2021-11-30 00:04:34,512 - logger_File -INFO - User clicked on select color
+2021-11-30 00:04:34,706 - logger_File -INFO - User selected quantity
+2021-11-30 00:04:37,759 - logger_File -INFO - User clicked on add to cart HP
+2021-11-30 00:04:41,106 - logger_File -INFO - ScenarioUser add Canon EOS 5D from Desktops tab to the cart FAILED
+2021-11-30 00:04:41,146 - logger_File -INFO - Scenario 34Started
+2021-11-30 00:04:46,353 - logger_File -INFO - User is on retail website
+2021-11-30 00:04:46,413 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:08:12,796 - logger_File -INFO - Scenario 11Started
+2021-11-30 00:08:16,239 - logger_File -INFO - User is on retail website
+2021-11-30 00:08:16,321 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:08:16,926 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:08:17,535 - logger_File -INFO - all items are present in desktop page
+2021-11-30 00:08:17,917 - logger_File -INFO - ScenarioUser verify all items are present in Desktops tab PASSED
+2021-11-30 00:08:17,948 - logger_File -INFO - Scenario 16Started
+2021-11-30 00:08:22,159 - logger_File -INFO - User is on retail website
+2021-11-30 00:08:22,219 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:08:22,773 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:08:22,817 - logger_File -INFO - User clicked on add HP_LP to shoping cart
+2021-11-30 00:08:24,205 - logger_File -INFO - User selected quantity
+2021-11-30 00:08:27,251 - logger_File -INFO - User clicked on add to cart HP
+2021-11-30 00:08:30,297 - logger_File -INFO - Success message is displayed
+2021-11-30 00:08:31,283 - logger_File -INFO - ScenarioUser add HP LP from Desktops tab to the cart PASSED
+2021-11-30 00:08:31,308 - logger_File -INFO - Scenario 25Started
+2021-11-30 00:08:35,678 - logger_File -INFO - User is on retail website
+2021-11-30 00:08:35,738 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:08:36,595 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:08:36,644 - logger_File -INFO - User clicked add to cart
+2021-11-30 00:08:38,417 - logger_File -INFO - User clicked on select color
+2021-11-30 00:08:38,654 - logger_File -INFO - User selected quantity
+2021-11-30 00:08:41,706 - logger_File -INFO - User clicked on add to cart HP
+2021-11-30 00:08:45,057 - logger_File -INFO - ScenarioUser add Canon EOS 5D from Desktops tab to the cart FAILED
+2021-11-30 00:08:45,092 - logger_File -INFO - Scenario 34Started
+2021-11-30 00:08:50,045 - logger_File -INFO - User is on retail website
+2021-11-30 00:08:50,098 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:08:50,919 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:08:52,107 - logger_File -INFO - User clicked on canon EOS 5D item
+2021-11-30 00:08:52,170 - logger_File -INFO - User clicked on write a review link
+2021-11-30 00:08:54,516 - logger_File -INFO - User entered name, review, and rating
+2021-11-30 00:09:24,891 - logger_File -INFO - ScenarioUser add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-30 00:18:10,369 - logger_File -INFO - Scenario 34Started
+2021-11-30 00:18:15,449 - logger_File -INFO - User is on retail website
+2021-11-30 00:18:15,509 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:18:17,407 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:18:19,734 - logger_File -INFO - User clicked on canon EOS 5D item
+2021-11-30 00:18:19,797 - logger_File -INFO - User clicked on write a review link
+2021-11-30 00:18:22,130 - logger_File -INFO - User entered name, review, and rating
+2021-11-30 00:18:52,531 - logger_File -INFO - ScenarioUser add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-30 00:23:49,498 - logger_File -INFO - Scenario 34Started
+2021-11-30 00:23:55,791 - logger_File -INFO - User is on retail website
+2021-11-30 00:23:55,863 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:23:56,469 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:23:57,792 - logger_File -INFO - User clicked on canon EOS 5D item
+2021-11-30 00:23:57,841 - logger_File -INFO - User clicked on write a review link
+2021-11-30 00:24:00,254 - logger_File -INFO - User entered name, review, and rating
+2021-11-30 00:24:00,305 - logger_File -INFO - User clicked on continue button
+2021-11-30 00:24:01,068 - logger_File -INFO - ScenarioUser add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-30 00:27:43,727 - logger_File -INFO - Scenario 34Started
+2021-11-30 00:27:48,415 - logger_File -INFO - User is on retail website
+2021-11-30 00:27:48,483 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:27:49,175 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:27:50,407 - logger_File -INFO - User clicked on canon EOS 5D item
+2021-11-30 00:27:50,458 - logger_File -INFO - User clicked on write a review link
+2021-11-30 00:27:52,859 - logger_File -INFO - User entered name, review, and rating
+2021-11-30 00:27:52,915 - logger_File -INFO - User clicked on continue button
+2021-11-30 00:27:53,203 - logger_File -INFO - The success message is dispalyed
+2021-11-30 00:27:53,589 - logger_File -INFO - ScenarioUser add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-30 00:29:26,455 - logger_File -INFO - Scenario 25Started
+2021-11-30 00:29:32,432 - logger_File -INFO - User is on retail website
+2021-11-30 00:29:32,506 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:29:34,146 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:29:34,197 - logger_File -INFO - User clicked add to cart
+2021-11-30 00:29:36,947 - logger_File -INFO - User clicked on select color
+2021-11-30 00:29:37,141 - logger_File -INFO - User selected quantity
+2021-11-30 00:29:40,189 - logger_File -INFO - User clicked on add to cart HP
+2021-11-30 00:29:43,563 - logger_File -INFO - ScenarioUser add Canon EOS 5D from Desktops tab to the cart FAILED
+2021-11-30 00:33:05,124 - logger_File -INFO - Scenario 25Started
+2021-11-30 00:33:12,309 - logger_File -INFO - User is on retail website
+2021-11-30 00:33:12,381 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:33:13,633 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:33:13,691 - logger_File -INFO - User clicked add to cart
+2021-11-30 00:33:15,244 - logger_File -INFO - User clicked on select color
+2021-11-30 00:33:15,368 - logger_File -INFO - User selected quantity
+2021-11-30 00:33:18,425 - logger_File -INFO - User clicked on add to cart HP
+2021-11-30 00:33:21,791 - logger_File -INFO - ScenarioUser add Canon EOS 5D from Desktops tab to the cart FAILED
+2021-11-30 00:34:05,258 - logger_File -INFO - Scenario 25Started
+2021-11-30 00:34:10,337 - logger_File -INFO - User is on retail website
+2021-11-30 00:34:10,401 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:34:10,952 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:34:11,005 - logger_File -INFO - User clicked add to cart
+2021-11-30 00:34:12,101 - logger_File -INFO - User clicked on select color
+2021-11-30 00:34:12,288 - logger_File -INFO - User selected quantity
+2021-11-30 00:34:15,350 - logger_File -INFO - User clicked on add to cart HP
+2021-11-30 00:34:18,742 - logger_File -INFO - ScenarioUser add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2021-11-30 00:38:48,766 - logger_File -INFO - Scenario 25Started
+2021-11-30 00:38:51,950 - logger_File -INFO - User is on retail website
+2021-11-30 00:38:52,044 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:38:52,593 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:38:52,645 - logger_File -INFO - User clicked add to cart
+2021-11-30 00:38:53,899 - logger_File -INFO - User clicked on select color
+2021-11-30 00:38:54,072 - logger_File -INFO - User selected quantity
+2021-11-30 00:38:57,127 - logger_File -INFO - User clicked on add to cart HP
+2021-11-30 00:39:00,180 - logger_File -INFO - successful message is displayed
+2021-11-30 00:39:01,232 - logger_File -INFO - ScenarioUser add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-30 00:39:28,121 - logger_File -INFO - Scenario 11Started
+2021-11-30 00:39:34,288 - logger_File -INFO - User is on retail website
+2021-11-30 00:39:34,356 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:39:36,311 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:39:37,032 - logger_File -INFO - all items are present in desktop page
+2021-11-30 00:39:37,369 - logger_File -INFO - ScenarioUser verify all items are present in Desktops tab PASSED
+2021-11-30 00:39:37,421 - logger_File -INFO - Scenario 16Started
+2021-11-30 00:39:42,572 - logger_File -INFO - User is on retail website
+2021-11-30 00:39:42,629 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:39:43,402 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:39:43,457 - logger_File -INFO - User clicked on add HP_LP to shoping cart
+2021-11-30 00:39:45,370 - logger_File -INFO - User selected quantity
+2021-11-30 00:39:48,418 - logger_File -INFO - User clicked on add to cart HP
+2021-11-30 00:39:51,469 - logger_File -INFO - Success message is displayed
+2021-11-30 00:39:52,453 - logger_File -INFO - ScenarioUser add HP LP from Desktops tab to the cart PASSED
+2021-11-30 00:39:52,474 - logger_File -INFO - Scenario 25Started
+2021-11-30 00:39:57,660 - logger_File -INFO - User is on retail website
+2021-11-30 00:39:57,723 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:39:58,790 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:39:58,840 - logger_File -INFO - User clicked add to cart
+2021-11-30 00:40:00,560 - logger_File -INFO - User clicked on select color
+2021-11-30 00:40:00,741 - logger_File -INFO - User selected quantity
+2021-11-30 00:40:03,790 - logger_File -INFO - User clicked on add to cart HP
+2021-11-30 00:40:06,827 - logger_File -INFO - successful message is displayed
+2021-11-30 00:40:07,841 - logger_File -INFO - ScenarioUser add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-30 00:40:07,863 - logger_File -INFO - Scenario 34Started
+2021-11-30 00:40:13,028 - logger_File -INFO - User is on retail website
+2021-11-30 00:40:13,077 - logger_File -INFO - User clicked on desctop tab
+2021-11-30 00:40:15,296 - logger_File -INFO - User clicked on show all desctop
+2021-11-30 00:40:19,493 - logger_File -INFO - User clicked on canon EOS 5D item
+2021-11-30 00:40:19,570 - logger_File -INFO - User clicked on write a review link
+2021-11-30 00:40:22,011 - logger_File -INFO - User entered name, review, and rating
+2021-11-30 00:40:22,054 - logger_File -INFO - User clicked on continue button
+2021-11-30 00:40:22,511 - logger_File -INFO - The success message is dispalyed
+2021-11-30 00:40:22,862 - logger_File -INFO - ScenarioUser add a review to Canon EOS 5D item in Desktops tab PASSED
